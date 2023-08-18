@@ -1,1 +1,2 @@
 Hello file1
+Good morning, bro! (from branch add-feature1)
